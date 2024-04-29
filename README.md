@@ -39,7 +39,6 @@
 
 
 <p align="center">   
-   <img src="https://github-readme-stats.vercel.app/api?username=malekjemni&show_icons=true&locale=en" alt="malekjemni" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=malekjemni&" alt="malekjemni" />
 </p>
 <p align="center">   

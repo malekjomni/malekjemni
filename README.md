@@ -1,11 +1,11 @@
 [![MasterHead](https://images.hive.blog/p/2dk2RRM2dZ8gKjXsrozapsD83FxL3Xbyyi5LFttAhrXxr16mCe4arfLHNM56T4Hom1Fou1nvoUE6CprYNkqBw5iQjjUMERMfWroB7VrYkbA14Xp7zxkFgkmF3g4NPFTBwduuLdAPQ4uxiyvAGyoFziU3uskEtrMSesirxbyZ9P?format=match&mode=fit)]()
-<h1 align="center">Hi 👋, I'm Malek Jemni</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malekjemni&label=Profile%20views&color=0e75b6&style=flat" alt="malekjemni" /> </p>
+<h1 align="center">Hi 👋, I'm Malek Jomni</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=malekjomni&label=Profile%20views&color=0e75b6&style=flat" alt="malekjomni" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  - 📫 How to reach me: malek.jemni@esprit.tn
+  - 📫 How to reach me: malekjomni95@gmail.com
 </p>
 <p align="left">
   - Check out my portfolio: <a href="https://malekjemni.github.io">https://malekjemni.github.io</a>

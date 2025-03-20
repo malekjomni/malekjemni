@@ -8,7 +8,7 @@
   - 📫 How to reach me: malekjomni95@gmail.com
 </p>
 <p align="left">
-  - Check out my portfolio: <a href="https://malekjemni.github.io">https://malekjemni.github.io</a>
+  - Check out my portfolio: <a href="https://malekjomni.github.io">https://malekjomni.github.io</a>
 </p>
 
 
@@ -39,10 +39,10 @@
 <br><br>
 
 <p align="center">   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malekjemni&" alt="malekjemni" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malekjomni&" alt="malekjomni" />
 </p>
 <p align="center">   
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malekjemni&show_icons=true&locale=en&layout=compact" alt="malekjemni" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malekjomni&show_icons=true&locale=en&layout=compact" alt="malekjomni" />
 </p>
 
 
